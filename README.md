@@ -1,2 +1,12 @@
-# simple-python-calculator
-A simple command-line calculator built with Python that performs basic arithmetic operations with error handling.
+# Simple Python Calculator
+
+A basic command-line calculator that performs arithmetic operations with proper error handling.
+
+## Features
+- Addition, subtraction, multiplication, and division
+- Error handling for invalid inputs
+- Division by zero protection
+
+## Usage
+```bash
+python calculator.py
